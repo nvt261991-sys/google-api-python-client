@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.188.0](https://github.com/googleapis/google-api-python-client/compare/v2.187.0...v2.188.0) (2025-12-05)
+
+
+### Features
+
+* Auto-enable mTLS when supported certificates are detected ([#2686](https://github.com/googleapis/google-api-python-client/issues/2686)) ([a1fd6f3](https://github.com/googleapis/google-api-python-client/commit/a1fd6f358f475a17612fe374502666581d571a8c))
+
 ## [2.187.0](https://github.com/googleapis/google-api-python-client/compare/v2.186.0...v2.187.0) (2025-11-04)
 
 
