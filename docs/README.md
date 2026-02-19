@@ -35,4 +35,4 @@ Learn how to use the Google API Python Client with these guides:
 ### Reference Documentation
 
 - Reference documentation for the the core library [googleapiclient](http://googleapis.github.io/google-api-python-client/docs/epy/index.html).
-- [Library reference documentation by API](dyn/index.md).
+- [Library reference documentation by API](dyn/index.md). 
